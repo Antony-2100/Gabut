@@ -10,7 +10,7 @@ echo "Kata Kata Akan segera Muncul"
 sleep 5
 echo "==============================="
 
-echo "PLAY"
+echo "~~~~~~~PLAY~~~~~~~~"
 sleep 6
 echo "Untukmu Wanitaku" 
 sleep 7
