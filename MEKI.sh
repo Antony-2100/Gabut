@@ -1,4 +1,4 @@
-echo "--------------" 
+Jo echo "--------------" 
 sleep 6
 echo "Author : Baiyu" 
 sleep 3
@@ -31,6 +31,8 @@ echo "sebab pria yang kamu cintai akan pergi ke ujung dunia untukmu"
 sleep 2
 echo "tetapi pria yang kamu cintai hanya akan mencintaimu dengan persyaratan nya"
 sleep 6
+echo "...." 
+sleep 18
 clear
 
 
@@ -58,7 +60,7 @@ echo "Yang Gua harapkan,sekarang adalah Lu bahagia"
 sleep 3
 echo "Intinya teruslah berjuang"
 sleep 3
-echo "Inget inget aje :v" 
+echo "Inget inget aje Tuh kata kata gua:v" 
 sleep 3
 echo "Intinya Ditunggu Undangan nya"
 sleep 3
@@ -69,7 +71,7 @@ sleep 3
 echo "ASSALAMUALAIKUM" 
 sleep 4
 clear
-echo "Next" 
+echo "LANJUT" 
 sleep 3
 echo "````````````````" 
 sleep 5
