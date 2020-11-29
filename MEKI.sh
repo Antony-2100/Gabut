@@ -25,7 +25,7 @@ clear
 
 
 echo "×××××××××××××××" 
-sleep 5
+sleep 3
 echo "NEXT QUATES" 
 sleep 3
 echo "×××××××××××××××" 
