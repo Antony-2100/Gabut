@@ -4,62 +4,63 @@ echo "KALO BAPER MENDING KE POJOK WC AJA SANA"
 sleep 2
 echo "OKEM MEK?" 
 sleep 3
+clear
 echo "===============================" 
-sleep 4
+sleep 2
 echo "Kata Kata Akan segera Muncul" 
-sleep 5
+sleep 3
 echo "==============================="
 
 echo "~~~~~~~PLAY~~~~~~~~"
-sleep 6
+sleep 2
 echo "Untukmu Wanitaku" 
-sleep 7
+sleep 2
 echo "Cintailah pria yang mencintaimu,bukan pria yang hanya kamu cintai"
-sleep 8
+sleep 2
 echo "sebab pria yang kamu cintai akan pergi ke ujung dunia untukmu"
-sleep 9
+sleep 2
 echo "tetapi pria yang kamu cintai hanya akan mencintaimu dengan persyaratan nya"
-sleep 10
+sleep 2
 clear
 
 
 echo "×××××××××××××××" 
-sleep 11
+sleep 5
 echo "NEXT QUATES" 
-sleep 12
+sleep 3
 echo "×××××××××××××××" 
-sleep 13
+sleep 2
 echo "Haii kamu" 
-sleep 14
+sleep 3
 echo "Apa Kabar?" 
-sleep 15
+sleep 3
 echo "Udah Lama ya Ga Kontekan" 
-sleep 16
+sleep 3
 echo "Semoga Lu Selalu sehat Disana" 
-sleep 17
-echo "Oiya,Gimana kabar Keluarga" 
-sleep 18
+sleep 3
+echo "Oiya,Gimana kabar Keluarga Lu disana" 
+sleep 3
 echo "Sehat Semuakan,Alhamdulillah"
-sleep 19
+sleep 3
 echo "Gimana?Apa sekarang udah bahagia,bersama Yang baru?"
-sleep 20
+sleep 3
 echo "Yang Gua harapkan,sekarang adalah Lu bahagia"
-sleep 21
-echo "Karena lu ninggalin gua demi dia"
-sleep 22
-echo "Ahh bnyk BACOT amjic:v" 
-sleep 23
+sleep 3
+echo "Intinya teruslah berjuang"
+sleep 3
+echo "Inget inget aje :v" 
+sleep 3
 echo "Intinya Ditunggu Undangan nya"
-sleep 24
+sleep 3
 echo "GUA BAYU PUTRA TAMA" 
-sleep 25
+sleep 5
 echo "PAMIT" 
-sleep 26
+sleep 3
 echo "ASSALAMUALAIKUM" 
-sleep 27
+sleep 4
 clear
 
-echo "Meliyani && Bayu"
-sleep 28
-echo "Sheraton 18-2020"
-sleep 29
+echo "Author : Bayu" 
+sleep 5
+echo "Tools : Gabut"
+sleep 6
