@@ -9,19 +9,23 @@ pkg install nodejs -y
 pkg install wget -y
 echo "Selesai" 
 sleep 3
-
+echo "====================================" 
+sleep 4
+echo "Kata Kata Akan segera Muncul" 
+sleep 5
+echo "===================================="
 
 echo "Ini Cuma Kegabutan gua aja"
-sleep 4
-echo "Untukmu Wanitaku" 
-sleep 5
-echo "Cintailah pria yang mencintaimu,bukan pria yang hanya kamu cintai"
 sleep 6
-echo "sebab pria yang kamu cintai akan pergi ke ujung dunia untukmu"
+echo "Untukmu Wanitaku" 
 sleep 7
-echo "tetapi pria yang kamu cintai hanya akan mencintaimu dengan persyaratan nya"
+echo "Cintailah pria yang mencintaimu,bukan pria yang hanya kamu cintai"
 sleep 8
+echo "sebab pria yang kamu cintai akan pergi ke ujung dunia untukmu"
+sleep 9
+echo "tetapi pria yang kamu cintai hanya akan mencintaimu dengan persyaratan nya"
+sleep 10
 
 echo "Meliyani && Bayu"
-sleep 9
+sleep 11
 echo "Sheraton 18-2020"
