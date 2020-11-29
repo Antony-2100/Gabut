@@ -20,7 +20,7 @@ sleep 2
 echo "sebab pria yang kamu cintai akan pergi ke ujung dunia untukmu"
 sleep 2
 echo "tetapi pria yang kamu cintai hanya akan mencintaimu dengan persyaratan nya"
-sleep 2
+sleep 6
 clear
 
 
