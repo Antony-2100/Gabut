@@ -26,7 +26,7 @@ clear
 
 echo "×××××××××××××××" 
 sleep 3
-echo "NEXT QUATES" 
+echo "Curhat Dikit" 
 sleep 3
 echo "×××××××××××××××" 
 sleep 2
@@ -64,3 +64,4 @@ echo "Author : Bayu"
 sleep 5
 echo "Tools : Gabut"
 sleep 6
+date
