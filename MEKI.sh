@@ -1,4 +1,4 @@
-Jo echo "--------------" 
+echo "--------------" 
 sleep 6
 echo "Author : Baiyu" 
 sleep 3
