@@ -76,7 +76,7 @@ sleep 5
 echo "Curahan Hati"
 sleep 5
 echo "````````````````" 
-sleel 5
+sleep 5
 echo "Judul : Terlalu Sibuk"
 sleep 3
 echo "Maaf Ya kalo gua gak pernah ada waktu buat lu :("
