@@ -116,6 +116,6 @@ sleep 3
 echo "30-11-2020"
 echo "Sekian Terima Rokok" 
 sleep 5
-echo "Wassallamuallaikum
+echo "Wassallamuallaikum"
 sleep 6
 date
