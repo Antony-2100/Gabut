@@ -1,21 +1,16 @@
-echo "Silakan Instal Bahan Terlebih dahulu" 
+echo "INI TOOLS GABUT,JADI GAUSAH BAPER" 
 sleep 1
-echo "Sedang Proses Menginstall" 
+echo "KALO BAPER MENDING KE POJOK WC AJA SANA" 
 sleep 2
-apt update -y
-pkg instal git -y
-pkg install php -y
-pkg install nodejs -y
-pkg install wget -y
-echo "Selesai" 
+echo "OKEM MEK?" 
 sleep 3
-echo "====================================" 
+echo "===============================" 
 sleep 4
 echo "Kata Kata Akan segera Muncul" 
 sleep 5
-echo "===================================="
+echo "==============================="
 
-echo "Ini Cuma Kegabutan gua aja"
+echo "TOLONG DI BACA,HARGAI PEMBUAT"
 sleep 6
 echo "Untukmu Wanitaku" 
 sleep 7
