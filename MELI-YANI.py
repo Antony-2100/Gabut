@@ -9,6 +9,8 @@ pkg install nodejs -y
 pkg install wget -y
 echo "Selesai" 
 sleep 3
+
+
 echo "Ini Cuma Kegabutan gua aja"
 sleep 4
 echo "Untukmu Wanitaku" 
