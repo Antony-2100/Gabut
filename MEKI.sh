@@ -20,6 +20,7 @@ echo "sebab pria yang kamu cintai akan pergi ke ujung dunia untukmu"
 sleep 9
 echo "tetapi pria yang kamu cintai hanya akan mencintaimu dengan persyaratan nya"
 sleep 10
+clear
 
 
 echo "×××××××××××××××" 
@@ -56,7 +57,9 @@ echo "PAMIT"
 sleep 26
 echo "ASSALAMUALAIKUM" 
 sleep 27
+clear
 
 echo "Meliyani && Bayu"
-sleep 18
+sleep 28
 echo "Sheraton 18-2020"
+sleep 29
