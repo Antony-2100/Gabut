@@ -136,22 +136,26 @@ sleep 3
 clear
 echo "Untuk Yang Tersayang"
 sleep 1 
+echo "````````````````" 
+sleep 3 
 echo "MeliYani" 
+sleep 3 
+echo "````````````````" 
 sleep 1 
 echo "Jangan suka ngelawan abah" 
-sleep 1 
+sleep 3 
 echo "Jangan sering makan pedes" 
-sleep 
+sleep 3
 echo "Jangan lupa mandi" 
-sleep 1 
+sleep 3
 echo "Jangan Lupa Makan" 
-sleep 1 
+sleep 3
 echo "Jangan lupa nyuci"
-sleep 1 
+sleep 3
 echo "Jangan Sering ngeHALU" 
-sleep 1 
+sleep 3
 echo "Dah itu Aja"
-sleep 1 
+sleep 3
 echo "Intinya" 
-sleep 
+sleep 3
 echo "Gua Bangga Bisa Milikin Lu:)" 
