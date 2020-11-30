@@ -138,8 +138,6 @@ echo "Untuk Yang Tersayang"
 sleep 1 
 echo "MeliYani" 
 sleep 1 
-echo "```````````" 
-sleep 3 
 echo "Jangan suka ngelawan abah" 
 sleep 1 
 echo "Jangan sering makan pedes" 
