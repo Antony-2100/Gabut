@@ -1,3 +1,4 @@
+clear
 echo "--------------------" 
 sleep 6
 echo "Author : Baiyu" 
