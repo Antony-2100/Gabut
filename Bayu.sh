@@ -144,7 +144,6 @@ sleep 3
 echo "````````````````" 
 sleep 1 
 echo "Catatan" 
-sleep 3 
 echo "Jangan suka ngelawan abah" 
 sleep 3 
 echo "Jangan sering makan pedes" 
