@@ -127,13 +127,13 @@ sleep 1
 
 clear
 echo "Besok lagi, kamu harus belajar mengerti."
-sleep 3
+sleep 1
 echo "Bahwa di atas perasaannya dia itu" 
-sleep 3
+sleep 1
 echo "Ada Harga diri kamu"
-sleep 3
+sleep 1
 echo "Yang enggak boleh kamu rendahin:)" 
-sleep 3
+sleep - 
 clear
 echo "Untuk Yang Tersayang"
 sleep 1 
