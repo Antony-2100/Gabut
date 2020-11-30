@@ -125,7 +125,7 @@ sleep 1
 
 
 clear
-echo " Besok lagi, kamu harus belajar mengert."
+echo "Besok lagi, kamu harus belajar mengert."
 sleep 3
 echo "Bahwa di atas perasaannya dia itu" 
 sleep 3
