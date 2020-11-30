@@ -95,7 +95,7 @@ echo "Gua disini Akan Jaga hati sekuat dan sebisa gua"
 sleep 1
 echo "Gua harap lu juga gitu" 
 sleep 1
-echo "Memang menunggu itu enggak enak apa lagi,lu sampe nunggu berlari hari demi sebuah kabar dari gua" 
+echo "Memang menunggu itu enggak enak apa lagi,lu sampe nunggu berhari hari demi sebuah kabar dari gua" 
 sleep 1
 echo "Ingatkan kata kata yg pernah lu omongin ke gua?" 
 sleep 1
@@ -125,7 +125,7 @@ sleep 1
 
 
 clear
-echo "Besok lagi, kamu harus belajar mengert."
+echo "Besok lagi, kamu harus belajar mengerti."
 sleep 3
 echo "Bahwa di atas perasaannya dia itu" 
 sleep 3
@@ -142,6 +142,8 @@ echo "MeliYani"
 sleep 3 
 echo "````````````````" 
 sleep 1 
+echo "Catatan" 
+sleep 
 echo "Jangan suka ngelawan abah" 
 sleep 3 
 echo "Jangan sering makan pedes" 
