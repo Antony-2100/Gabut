@@ -1,10 +1,10 @@
-echo "--------------" 
+echo "--------------------" 
 sleep 6
 echo "Author : Baiyu" 
 sleep 3
 echo "Tools  : Gabut :v" 
-echo "--------------" 
-sleep 9
+echo "--------------------" 
+sleep 6
 clear
 
 
@@ -121,3 +121,18 @@ sleep 5
 echo "Wassallamuallaikum"
 sleep 6
 date
+sleep 8
+
+
+
+
+
+
+echo " Besok lagi, kamu harus belajar mengert."
+sleep 3
+echo "Bahwa di atas perasaannya dia itu" 
+sleep 3
+echo "Ada Harga diri kamu"
+sleep 3
+echo "Yang enggak boleh kamu rendahin:)" 
+sleep 3
